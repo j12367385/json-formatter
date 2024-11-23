@@ -1,4 +1,4 @@
-Redmi # JSON Formatter - the original
+Redmi Redmi # JSON Formatter - the original
 
 Chrome extension that auto-formats JSON when you view it in a browser tab.
 
